@@ -1,5 +1,5 @@
 Name:		texlive-mcf2graph
-Version:	67238
+Version:	69281
 Release:	1
 Summary:	Draw chemical structure diagrams with MetaPost
 Group:		Publishing
