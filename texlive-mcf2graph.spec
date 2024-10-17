@@ -3,7 +3,7 @@ Version:	70167
 Release:	1
 Summary:	Draw chemical structure diagrams with MetaPost
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mcf2graph
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mcf2graph
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mcf2graph.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mcf2graph.doc.r%{version}.tar.xz
